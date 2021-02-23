@@ -29,7 +29,7 @@
         android:id="@+id/textView"
         android:layout_width="0dp"
         android:layout_height="16dp"
-        android:text="your name will apper"
+        android:text="NAME HERE"
         app:layout_constraintEnd_toStartOf="@+id/Button"
         app:layout_constraintTop_toBottomOf="@+id/editText" />
 
